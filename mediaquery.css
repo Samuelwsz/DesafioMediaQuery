@@ -15,9 +15,7 @@ Grandes telas: acima de 1200px
     }
     img#phone {display: none;}
     img#tablet {display: block;}
-    img#print {display: none;}
     img#pc {display: none;}
-    img#tv {display: none;}
 }
 
 @media screen and (min-width: 992px) {/*desktop*/
@@ -26,7 +24,5 @@ Grandes telas: acima de 1200px
     }
     img#phone {display: none;}
     img#tablet {display: none;}
-    img#print {display: none;}
     img#pc {display: block;}
-    img#tv {display: none;}
 }
